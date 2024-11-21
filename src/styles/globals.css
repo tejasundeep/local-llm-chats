@@ -1,0 +1,28 @@
+p {
+    margin-bottom: 0;
+}
+
+/* width */
+textarea::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+textarea::-webkit-scrollbar-track {
+    background: none;
+}
+
+/* Handle */
+textarea::-webkit-scrollbar-thumb {
+    background: none;
+}
+
+/* Handle on hover */
+textarea::-webkit-scrollbar-thumb:hover {
+    background: none;
+}
+
+pre code.hljs {
+    background: #1a1a1a;
+    padding: 0 1em;
+}
